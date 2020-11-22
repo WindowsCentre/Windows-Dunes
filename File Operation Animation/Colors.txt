@@ -1,0 +1,4 @@
+Color 1: 844200
+Color 2: d94904
+Color 3: 5C0497
+Font Color: FFFFFF
